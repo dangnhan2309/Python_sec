@@ -97,17 +97,17 @@ def doinguoichuoi():
     #xem lai :  input_string[start:stop:step]
 def main():
 
-    # print_funtion("Dannglamthenhan")
-    # print_ten_tuoi()
+    #print_funtion("Dannglamthenhan")
+     #print_ten_tuoi()
     # Dientichhinhtron()
-    # print(check_if_even())
+     #print(check_if_even())
     # print_7_5(check_7_5())
     # baitoan_tinhluong()
     # mang2chieu()
-    # print_uppercase()
+    #  print_uppercase()
     # binary_string()
     # print_reusult_element()
-    doinguoichuoi()
+    # doinguoichuoi()
 
 if __name__ =="__main__":
     main()

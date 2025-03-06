@@ -4,12 +4,14 @@ from flask import Flask, request, jsonify
 from Lap2.cipher.vigenere.vigenere_cypher import VigenereCipher
 from Lap2.cipher.railfence.railfence_cypher import RailFenceCipher
 from Lap2.cipher.playfair.playfair_cipher import PlayFairCipher
+from Lap2.cipher.transposition.transposition_cipher import TranspositionCipher
 # Initialize Flask app and CaesarCipher instance
 app = Flask(__name__)
 caesar_cipher = CaesarCipher()
 vigenere_cipher = VigenereCipher()
 railfence = RailFenceCipher()
 playfair = PlayFairCipher()
+transposition = TranspositionCipher()
 
 
 #Route for encrypting text
@@ -87,6 +89,22 @@ def playfair_dencrypt():
     dencrypted_text = playfair.playfair_encrypt(plaintext,matrix)
     return jsonify({'dencrypted_text ':dencrypted_text})
 
+
+@app.route("/api/transition/encrypt", methods = ["POST"])
+def transition_encrypt():
+    data = request.json
+    plaintext = data.get('plain_text')
+    key = int(data.get('key'))
+
+    encrypted_text = transposition.encrypt(plaintext,key)
+    return jsonify({'encrypted_text ':encrypted_text})
+@app.route("/api/transition/dencrypt", methods = ["POST"])
+def transition_dencrypt():
+    data = request.json
+    plaintext = data.get('plain_text')
+    key = int(data.get('key'))
+    dencrypted_text = transposition.decrypt(plaintext, key)
+    return jsonify({'dencrypted_text ':dencrypted_text})
 
 
 

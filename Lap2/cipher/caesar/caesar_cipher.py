@@ -1,6 +1,5 @@
 from string import ascii_uppercase
 ALPHABET = list(ascii_uppercase)
-
 class CaesarCipher:
 
     def __init__(self):
@@ -8,9 +7,14 @@ class CaesarCipher:
 
     def encrypt(self, text: str, key: int) -> str:
         alphabet_len = len(self.alphabet)
-        text = text.upper()  # Convert to uppercase for uniformity
+        if text is not None:
+            text = text.upper()  # Convert to uppercase for uniformity
+        else:
+            print("Error: 'text' is None. Please provide a valid string." )# Convert to uppercase for uniformity
         encrypted_text = []
-        for letter in text:
+
+
+        for letter in str(text):
             if letter in self.alphabet:
                 letter_index = self.alphabet.index(letter)
                 output_index = (letter_index + key) % alphabet_len

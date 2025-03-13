@@ -48,7 +48,7 @@ def vigenere_dencrypt():
     dencrypted_text = vigenere_cipher.vigenere_decrypt(cipher_text,key)
     return jsonify({'dencrypted_text ':dencrypted_text})
 
-@app.route("/api/railfence/encrypt", methods = ["POST"])
+@app.route("/api/railr46fence/encrypt", methods = ["POST"])
 def railfence_encrypt():
     data = request.json
     plain_text = data['plain_text']
@@ -86,7 +86,7 @@ def playfair_dencrypt():
     plaintext = data['plain_text']
     key = data['key']
     matrix = playfair.create_playfair_matrix(key)
-    dencrypted_text = playfair.playfair_encrypt(plaintext,matrix)
+    dencrypted_text = playfair.playfair_decrypt(plaintext,matrix)
     return jsonify({'dencrypted_text ':dencrypted_text})
 
 

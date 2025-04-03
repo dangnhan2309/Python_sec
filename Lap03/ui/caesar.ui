@@ -6,80 +6,19 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>787</width>
+    <height>468</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="label">
+   <widget class="QPushButton" name="encryptButton">
     <property name="geometry">
      <rect>
-      <x>200</x>
-      <y>32</y>
-      <width>181</width>
-      <height>21</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>CAESAR CIPHER</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>110</y>
-      <width>91</width>
-      <height>21</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>PLAIN TEXT</string>
-    </property>
-    <property name="wordWrap">
-     <bool>false</bool>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>190</y>
-      <width>91</width>
-      <height>21</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Key</string>
-    </property>
-    <property name="wordWrap">
-     <bool>false</bool>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_4">
-    <property name="geometry">
-     <rect>
-      <x>40</x>
-      <y>300</y>
-      <width>81</width>
-      <height>21</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>CIPHER TEXT</string>
-    </property>
-    <property name="wordWrap">
-     <bool>false</bool>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="en">
-    <property name="geometry">
-     <rect>
-      <x>140</x>
-      <y>350</y>
+      <x>410</x>
+      <y>390</y>
       <width>75</width>
       <height>23</height>
      </rect>
@@ -88,25 +27,81 @@
      <string>Encrypt</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="de">
+   <widget class="QPushButton" name="DecryptButton">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>350</y>
+      <x>580</x>
+      <y>390</y>
       <width>75</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>Descrypt</string>
+     <string>Decrypt</string>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="plainText">
+   <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>160</x>
-      <y>80</y>
-      <width>271</width>
+      <x>50</x>
+      <y>90</y>
+      <width>61</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Plain Text:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Key:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>40</y>
+      <width>161</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>CAESAR CIPHER</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="plaintext">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>90</y>
+      <width>631</width>
       <height>71</height>
      </rect>
     </property>
@@ -114,19 +109,37 @@
    <widget class="QPlainTextEdit" name="key">
     <property name="geometry">
      <rect>
-      <x>160</x>
-      <y>160</y>
-      <width>271</width>
-      <height>71</height>
+      <x>120</x>
+      <y>200</y>
+      <width>631</width>
+      <height>41</height>
      </rect>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="cipher_text">
+   <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>260</y>
-      <width>271</width>
+      <x>40</x>
+      <y>290</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>CipherText:</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="ciphertext">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>290</y>
+      <width>631</width>
       <height>71</height>
      </rect>
     </property>
@@ -137,7 +150,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>787</width>
      <height>21</height>
     </rect>
    </property>

@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Python_sec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap03\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap03\\api.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap03\\ui\\rsa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap03\\ui\\rsa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\hash\\blake2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\hash\\blake2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\websocket\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\websocket\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\blockchain\\test_blockchain.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\blockchain\\test_blockchain.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\ssl\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\ssl\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\blockchain\\blockchain.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\blockchain\\blockchain.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\blockchain\\block.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\blockchain\\block.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\base64\\encrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\base64\\encrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap05\\base64\\decrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap05\\base64\\decrypt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\aes_rsa_socket\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\aes_rsa_socket\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\aes_rsa_socket\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\aes_rsa_socket\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\aes_rsa_socket\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\aes_rsa_socket\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\dh_key_pair\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\dh_key_pair\\client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\dh_key_pair\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\dh_key_pair\\server.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\hash\\md5_library.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\hash\\md5_library.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\hash\\sha-3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\hash\\sha-3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\hash\\sha-256.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\hash\\sha-256.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\hash\\md5_hash.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\hash\\md5_hash.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Python_sec\\Lap04\\dh_key_pair\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap04\\dh_key_pair\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap03\\api.py",
+              "RelativeDocumentMoniker": "Lap03\\api.py",
+              "ToolTip": "D:\\Python_sec\\Lap03\\api.py",
+              "RelativeToolTip": "Lap03\\api.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T07:02:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rsa.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap03\\ui\\rsa.py",
+              "RelativeDocumentMoniker": "Lap03\\ui\\rsa.py",
+              "ToolTip": "D:\\Python_sec\\Lap03\\ui\\rsa.py",
+              "RelativeToolTip": "Lap03\\ui\\rsa.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T07:02:56.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_blockchain.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\blockchain\\test_blockchain.py",
+              "RelativeDocumentMoniker": "Lap05\\blockchain\\test_blockchain.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\blockchain\\test_blockchain.py",
+              "RelativeToolTip": "Lap05\\blockchain\\test_blockchain.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:19:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "client.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\websocket\\client.py",
+              "RelativeDocumentMoniker": "Lap04\\websocket\\client.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\websocket\\client.py",
+              "RelativeToolTip": "Lap04\\websocket\\client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:15:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blake2.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\hash\\blake2.py",
+              "RelativeDocumentMoniker": "Lap04\\hash\\blake2.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\hash\\blake2.py",
+              "RelativeToolTip": "Lap04\\hash\\blake2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:08:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "client.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\ssl\\client.py",
+              "RelativeDocumentMoniker": "Lap05\\ssl\\client.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\ssl\\client.py",
+              "RelativeToolTip": "Lap05\\ssl\\client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:38:58.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blockchain.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\blockchain\\blockchain.py",
+              "RelativeDocumentMoniker": "Lap05\\blockchain\\blockchain.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\blockchain\\blockchain.py",
+              "RelativeToolTip": "Lap05\\blockchain\\blockchain.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:17:30.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "block.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\blockchain\\block.py",
+              "RelativeDocumentMoniker": "Lap05\\blockchain\\block.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\blockchain\\block.py",
+              "RelativeToolTip": "Lap05\\blockchain\\block.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:17:26.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "encrypt.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\base64\\encrypt.py",
+              "RelativeDocumentMoniker": "Lap05\\base64\\encrypt.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\base64\\encrypt.py",
+              "RelativeToolTip": "Lap05\\base64\\encrypt.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:17:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "decrypt.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap05\\base64\\decrypt.py",
+              "RelativeDocumentMoniker": "Lap05\\base64\\decrypt.py",
+              "ToolTip": "D:\\Python_sec\\Lap05\\base64\\decrypt.py",
+              "RelativeToolTip": "Lap05\\base64\\decrypt.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:17:20.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "server.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\server.py",
+              "RelativeDocumentMoniker": "Lap04\\aes_rsa_socket\\server.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\server.py",
+              "RelativeToolTip": "Lap04\\aes_rsa_socket\\server.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:10:30.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "client.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\client.py",
+              "RelativeDocumentMoniker": "Lap04\\aes_rsa_socket\\client.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\client.py",
+              "RelativeToolTip": "Lap04\\aes_rsa_socket\\client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T05:59:44.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\requirements.txt",
+              "RelativeDocumentMoniker": "Lap04\\aes_rsa_socket\\requirements.txt",
+              "ToolTip": "D:\\Python_sec\\Lap04\\aes_rsa_socket\\requirements.txt",
+              "RelativeToolTip": "Lap04\\aes_rsa_socket\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-03T05:59:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "client.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\dh_key_pair\\client.py",
+              "RelativeDocumentMoniker": "Lap04\\dh_key_pair\\client.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\dh_key_pair\\client.py",
+              "RelativeToolTip": "Lap04\\dh_key_pair\\client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:04:41.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "server.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\dh_key_pair\\server.py",
+              "RelativeDocumentMoniker": "Lap04\\dh_key_pair\\server.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\dh_key_pair\\server.py",
+              "RelativeToolTip": "Lap04\\dh_key_pair\\server.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:04:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "md5_library.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\hash\\md5_library.py",
+              "RelativeDocumentMoniker": "Lap04\\hash\\md5_library.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\hash\\md5_library.py",
+              "RelativeToolTip": "Lap04\\hash\\md5_library.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:09:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sha-3.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\hash\\sha-3.py",
+              "RelativeDocumentMoniker": "Lap04\\hash\\sha-3.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\hash\\sha-3.py",
+              "RelativeToolTip": "Lap04\\hash\\sha-3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:09:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sha-256.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\hash\\sha-256.py",
+              "RelativeDocumentMoniker": "Lap04\\hash\\sha-256.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\hash\\sha-256.py",
+              "RelativeToolTip": "Lap04\\hash\\sha-256.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:09:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "md5_hash.py",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\hash\\md5_hash.py",
+              "RelativeDocumentMoniker": "Lap04\\hash\\md5_hash.py",
+              "ToolTip": "D:\\Python_sec\\Lap04\\hash\\md5_hash.py",
+              "RelativeToolTip": "Lap04\\hash\\md5_hash.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-03T06:09:05.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "D:\\Python_sec\\Lap04\\dh_key_pair\\requirements.txt",
+              "RelativeDocumentMoniker": "Lap04\\dh_key_pair\\requirements.txt",
+              "ToolTip": "D:\\Python_sec\\Lap04\\dh_key_pair\\requirements.txt",
+              "RelativeToolTip": "Lap04\\dh_key_pair\\requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-03T06:04:45.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1227,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
